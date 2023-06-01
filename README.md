@@ -1,6 +1,10 @@
 # CS554WEB2
 Web Programming II Project by 1. Aaryaman Katoch 2. Dhavan Kanakia 3. Parth Patel 4. Ridham Patel 5. Ujas Italia
 
+# Application working Demo
+
+https://youtu.be/q-6NKJL8brI
+
 # GitHub repo
 
 - https://github.com/AaryamanKatoch/CS554WEB2
@@ -112,32 +116,6 @@ npm install
 npm start
 ```
 
-## Credentials to access and view data in application
-
-## TalentHunt-Company-Frontend Credentials
-### id:- tc34@apple.com
-### pass:- Test@123
-
-### id:- bg34@microsoft.com
-### pass:- Test@123
-
-### id:- ab34@outlook.com
-### pass:- Test@123
-
-### id:- gk34@apple.com
-### pass:- Test@123
-
-## TalentHunt-JobSeeker-Frontend Credentials
-### id:- dkanakia34@gmail.com
-### pass:- Test@123
-
-### id:- ui34@gmail.com
-### pass:- Test@123
-
-### id:- ak34@gmail.com
-### pass:- Test@123
-
-### id:- rd34@gmail.com
-### pass:- Test@123
+## Note:- you need to create the firebase configration to make this application work and add .env file to both jobseeker and company
 
 
